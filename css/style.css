@@ -1,0 +1,100 @@
+.introText {
+  font-size: 20px;
+}
+/*.Page {
+  height: 100vh;
+  width: 100vw;
+}*/
+
+#navbar{
+  margin-top: 15px;
+  margin-bottom: 55px;
+}
+
+.home {
+  margin-left: 3%;
+  margin-right: 3%;
+}
+
+#words{
+  padding: 8px;
+}
+
+#heading2_punjabi,#heading2_english {
+  margin-left: 33.33%;
+}
+
+#heading3_punjabi, #heading3_english {
+  margin-left: 66.67%;
+}
+
+.defaultColor {
+  color: #c0392b;
+}
+
+.margins {
+  margin: 2%;
+}
+
+.align-center {
+  text-align: center;
+}
+
+body {
+  background-image : linear-gradient(to bottom right , #ffd54f, #ff9800);
+}
+
+.tabs .tab {
+  text-transform: none !important;
+}
+
+ol{
+   list-style-position: inside;
+  color: #ff3d00;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  color: #ff3d00;
+}
+ol li{
+  position: relative;
+}
+ol li > *{
+  padding-left: 5%;
+}
+
+.tabs .tab a {
+    background-color: #E67E22;
+    color: #fff;
+}
+.tabs .tab a:hover {
+    color: #d9d9d9 !important;
+}
+.collapsible-header{
+    backface-color: #E67E22 !important;
+    color: #2c3e50 !important;
+}
+.border-bottom{
+    border-bottom: 1px solid #20262c;
+}
+
+
+.modal_data_size{
+    font-size: 20px;
+}
+hr{
+  border-color: #ff3d00;
+}
+#homePage{
+  padding-top: 7%;
+  height: 100vh;
+}
+
+.pu_intro{
+  font-size: 15px;
+}
+.border-box{
+  border: 2px solid #ff3d00;
+  margin-top: 5px;
+  padding: 0 20px;
+}
