@@ -10,7 +10,7 @@ var dataSadharan = {
 
             'noun': "b'n, ukBD, o'PBh, gqekP, bkJhN, i'sh, fiT[sh, fdT[sh; T[ikbkl ukBDhl Mkbk, gqskg, JhPkB, gqGk, dhgsh, SNk, nkGk, ftGk, ibtk, i's, ibkb, skp, Ij{o, B{o GkBl b'e, Pqhl gqdhgD, fBzwQk ukBD, fBzwQh o'PBhl wZXw gqekP, Xhwh b'n",
 
-            'nounEnglish': "lo, cānana, rośnī, prakāś, lāīt, jotī, jiutī diutī; ujālā; cānanaī; jhālā; pratāp, īśān, prabhā, dīptī, chata, ābhā, vibhā, jalvā, jot, jalāl,  tāb, zahūr, nūr bhān; lok, śrī; prәdīpәna, niñmā cānana, niñmī rośnī; maddham prakāś, dhīmī lo",
+            'nounEnglish': "lo, cānana, rośnī, prakāś, lāīṭ, jotī, jiutī diutī; ujālā; cānanaī; jhālā; pratāp, īśān, prabhā, dīptī, chaṭa, ābhā, vibhā, jalvā, jot, jalāl,  tāb, zahūr, nūr bhān; lok, śrī; prәdīpәna, niñmā cānana, niñmī rośnī; maddham prakāś, dhīmī lo",
 
             'verb': "o'PB eoBk, ukBD eoBk, T[ikbk eoBkl o'PB j'Dk, gqekfPs j'Dk, gqekPwkB j'Dk, B{o' B{o j'Dkl gqekP d/Dk, B{o toQkDk, B{o B{o eoBk",
 
@@ -31,15 +31,15 @@ var dataSadharan = {
 
             'noun': "uwe, dwe, uwe dwe, uweko,fbPe, vbQe, b;, fbPeko, fbPekok, fbPe'ol ir wr, fbP fbP, Mb Mb, fMbfwbl Mbe, Mbeko, Mbekok, Mbe'ol fNwfNw, MwMw, fMbfwbkjN, irwrjkjN, fNwfNwkjN, nkpl Ioe poel",
 
-            'nounEnglish': ": camak, damak, camak damak, camkār, liśk, dalhak, las, liśkār, liśkārā, liśkor; jag mag, liś liś, jhal jhal, jhilmil; jhalak, jhalkār, jhalkārā, jhalkor; jhal mal, timtim, jhamjham, jhilmilāhata, jagmagāhat, timtimāhat āb; zarak barak;",
+            'nounEnglish': ": camak, damak, camak damak, camkār, liśk, dalhak, las, liśkār, liśkārā, liśkor; jag mag, liś liś, jhal jhal, jhilmil; jhalak, jhalkār, jhalkārā, jhalkor; jhal mal, ṭimṭim, jhamjham, jhilmilāhata, jagmagāhaṭ, ṭimṭimāhaṭ āb; zarak barak;",
 
             'verb': "uweDk, fbPeDkl uwekT[Dk, fbPekT[Dk, irwr j'Dk, irwrkT[Dk, MbeDk, vbQeDk, MwMw eoBk, fbP fbP eoBk, fNwfNw eoBk, fNwfNwkT[Dk, fMbfwb eoBk, ir p[M j'Dk Ioe poe j'Dk, bfjeDk",
 
-            'verbEnglish': "camaknaā, liśknaā; camkāunaā, liśkāunaā, jagmag honaā, jagmagāunaā, jhalaknaā, daalhaknaā, jham jham karnā, liś liś karnā, taimtaim karnā,  timtimāunaā, jhilmil karnā, jag bujh honaā zarak barak honaā, laehknaā,",
+            'verbEnglish': "camaknaā, liśknaā; camkāunaā, liśkāunaā, jagmag honaā, jagmagāunaā, jhalaknaā, daalhaknaā, jham jham karnā, liś liś karnā, taimtaim karnā,  ṭimṭimāunaā, jhilmil karnā, jag bujh honaā zarak barak honaā, laehknaā,",
 
             'adj': "uweDk, fbPeDkl uwekT[Dk, fbPekT[Dk, irwr j'Dk, irwrkT[Dk, MbeDk, vbQeDk, MwMw eoBk, fbP fbP eoBk, fNwfNw eoBk, fNwfNwkT[Dk, fMbfwb eoBk, ir p[M j'Dk Ioe poe j'Dk, bfjeDk",
 
-            'adjEnglish': "camakdā, camakdār, camkanahār, liśkdār, liśkvāñ, liśkdā, ābdār, jagmagāuñdā, daalhakdā, jham jham kardā, timtim kardā,timtimāuñdā, liś liś kardā",
+            'adjEnglish': "camakdā, camakdār, camkanahār, liśkdār, liśkvāñ, liśkdā, ābdār, jagmagāuñdā, daalhakdā, jham jham kardā, ṭimṭim kardā,ṭimṭimāuñdā, liś liś kardā",
 
             'adv': "",
             'advEnglish': ""
@@ -94,8 +94,8 @@ var dataBhautik = {
                     'adv': "SKt/A, SK EZb/, ;kJ/ EZb/l SKt/A SKt/A, T[jb/, T[jb/ T[jb",
                     'adj': ";kJ/dko, SKdko, SK tkbkl SKJhA^wKJhA",
 
-                    'nounEnglish': "chạ, chāiā, chāyā, chāī, chāụ, chāhī, chām,  chāv, chāmnī, sāiā, śed gūrahī chạ, ghanaī chạ, sạghnaī chạ, gaehrī chạ, sạghnaā sāiā; parchāvạ ot, uhlā, dahakkana, kajjana, āra, pardā, ghụda, jhụda, nakāb, burkā, cilman; cānanaī, kanāt, śāmiānā, sāebān; chappar, chaura; kụj, sakrīn, śatar, chavaīā, cikk, tatiạ; chatraī, chatraī, chatt, chattana, chann, shaedada, chāunaī",
-                    'verbEnglish': "chạ karnā; chạ karāunaā; chạvẹ baehnaā, chạvẹ baethnaā;pardā karnā, pardā suttnaā; āra laenaī, ota bhālanaā, ot laenī, chavāunaā, bacāunaā;chattnaā, chatt pāunaī, chatāunaā, dahakkanaā;chạị-mạị honaā",
+                    'nounEnglish': "chạ, chāiā, chāyā, chāī, chāụ, chāhī, chām,  chāv, chāmnī, sāiā, śed gūrahī chạ, ghanaī chạ, sạghnaī chạ, gaehrī chạ, sạghnaā sāiā; parchāvạ oṭ, uhlā, dahakkana, kajjana, āra, pardā, ghụda, jhụda, nakāb, burkā, cilman; cānanaī, kanāt, śāmiānā, sāebān; chappar, chaura; kụj, sakrīn, śaṭar, chavaīā, cikk, ṭaṭiạ; chatraī, chatraī, chatt, chattana, chann, shaedada, chāunaī",
+                    'verbEnglish': "chạ karnā; chạ karāunaā; chạvẹ baehnaā, chạvẹ baeṭhnaā;pardā karnā, pardā suṭṭnaā; āra laenaī, ota bhālanaā, oṭ laenī, chavāunaā, bacāunaā;chattnaā, chatt pāunaī, chatāunaā, dahakkanaā;chạị-mạị honaā",
 
                     'nounEnglish': "chạ, chāiā, chāyā, chāī, chāụ, chāhī, chām,  chāv, chāmnī, sāiā, śed gūrahī chạ, ghanaī chạ, sạghnaī chạ, gaehrī chạ, sạghnaā sāiā; parchāvạ oṭ, uhlā, dahakkana, kajjana, āra, pardā, ghụda, jhụda, nakāb, burkā, cilman; cānanaī, kanāt, śāmiānā, sāebān; chappar, chaura; kụj, sakrīn, śaṭar, chavaīā, cikk, ṭaṭiạ; chatraī, chatraī, chatt, chattana, chann, shaedada, chāunaī",
                     'verbEnglish': "chạ karnā; chạ karāunaā; chạvẹ baehnaā, chạvẹ baeṭhnaā;pardā karnā, pardā suṭṭnaā; āra laenaī, ota bhālanaā, oṭ laenī, chavāunaā, bacāunaā;chattnaā, chatt pāunaī, chatāunaā, dahakkanaā;chạī-mạī honaā",
@@ -110,7 +110,7 @@ var dataBhautik = {
                     'adj': "o'IkBk, d?fBe, fdjkVhtko, ni'ek",
                     'nounEnglish': "din, vār, roz, dihụ, divas, dinas, atatah paehar, daeh, daịh, daīhraā, bāsar, dihāraī, dihāraā ajj; kallh; bhalak; parsọ; cauth",
                     'verbEnglish': "",
-                    'advEnglish': "dine, dine dine, loe loe, din vele, din de same, din de din citte din; citatae din vạg pratī din, din pratī din, din badin; din bhar,  andin; dinạ vic hī; roz dihāraī, har roz, rozānā, roz hī, roz roz, roz baroz; cate paehar, nitt, nitt nitt ajj, ajj de din, ajj hī, ajjo ajj; aje; kalh, bhalke; ajj kalh; parsọ, chauth, huna, hunae, hunae hunae; paehle din kis din, kiddana, kidọ, kadọ, kad us din, os din, odana, odọ, tadọ, tad onhị dinị, enhị dinị, jinhī dinị; kinhị dinị jis din, jiddana, jidọ, jadọ, jad jad kad, jadọ kade, ja",
+                    'advEnglish': "dine, dine dine, loe loe, din vele, din de same, din de din ciṭṭe din; citatae din vạg pratī din, din pratī din, din badin; din bhar,  andin; dinạ vic hī; roz dihāraī, har roz, rozānā, roz hī, roz roz, roz baroz; cate paehar, nitt, nitt nitt ajj, ajj de din, ajj hī, ajjo ajj; aje; kalh, bhalke; ajj kalh; parsọ, chauth, huna, hunae, hunae hunae; paehle din kis din, kiddana, kidọ, kadọ, kad us din, os din, odana, odọ, tadọ, tad onhị dinị, enhị dinị, jinhī dinị; kinhị dinị jis din, jiddana, jidọ, jadọ, jad jad kad, jadọ kade, ja",
 
                     'advEnglish': "dine, dine dine, loe loe, din vele, din de same, din de din ciṭṭe din; citatae din vạg pratī din, din pratī din, din badin; din bhar,  andin; dinạ vic hī; roz dihāraī, har roz, rozānā, roz hī, roz roz, roz baroz; cate paehar, nitt, nitt nitt ajj, ajj de din, ajj hī, ajjo ajj; aje; kalh, bhalke; ajj kalh; parsọ, chauth, huna, hunae, hunae hunae; paehle din kis din, kiddana, kidọ, kadọ, kad us din, os din, odana, odọ, tadọ, tad onhī dinī, enhī dinī, jinhī dinī; kinhī dinī jis din, jiddana, jidọ, jadọ, jad jad kad, jadọ kade, ja",
                     'adjEnglish': "rozānā, daenik, dihāraīvār, ajokā "
@@ -121,7 +121,7 @@ var dataBhautik = {
                     'verb': "oks g?Dh, jB/ok j'Dk, BQ/ok j'Dk, fdB v[ZpDk, sko/ fBebD",
                     'adv': "okshA, oks ƒ, oks t/b/, oks d/ ;w/Al oks' oks, oks dh oksl oks poks/, oks pokshA, nZXhA okshAl oksK uho e",
                     'adj': "oksbl oks ozrkl o?D ;pkJh",
-                    'nounEnglish': "rāt, nāīṭ, rātrī, rātraī, raen, nis, nisa, niśa, nisi, nisī, śab, yāminī, niśāgam, cauthā paehar cānanaī rāt, tāriān bharī rāt, nikkharī rāt,pūranmāśī, pūrnimā, punniā; cānanaā pakkh, ujālā pakkh, śukal pakkh hanerī rāt, ạdhiārī rāt, kāḷī boḷī rāt, ạdherī rāt; amāvas, massiā; hanerā pakkh, kriśan pakkh raena baserā, rāt kaṭī, sarạ jagrātā, jāgrā, jāgā, jāgrana, jagrevạ, rat jagā; jāgo paehrā, chaukīdārī ; paeharedār, chaukīdār niśinād ạdhrātā rāt dā rājā, niśācar rāt dī rānaī, rajnī gạdhā, niśi puśpī",
+                    'nounEnglish': "rāt, nāīṭ, rātrī, rātraī, raeṇ, nis, nisa, niśa, nisi, nisī, śab, yāminī, niśāgam, cauthā paehar cānanaī rāt, tāriān bharī rāt, nikkharī rāt,pūranmāśī, pūrnimā, punniā; cānanaā pakkh, ujālā pakkh, śukal pakkh hanerī rāt, ạdhiārī rāt, kāḷī boḷī rāt, ạdherī rāt; amāvas, massiā; hanerā pakkh, kriśan pakkh raena baserā, rāt kaṭī, sarạ jagrātā, jāgrā, jāgā, jāgrana, jagrevạ, rat jagā; jāgo paehrā, chaukīdārī ; paeharedār, chaukīdār niśinād ạdhrātā rāt dā rājā, niśācar rāt dī rānaī, rajnī gạdhā, niśi puśpī",
                     'verbEnglish': "rāt paenaī, hanerā honaā,  nherā honaā,din daubbnaā, tāre nikalnae",
                     'advEnglish': "rātị, rāt nụ, rāt vele, rāt de same; rāto rāt, rāt dī rāt;rāt barāte, rāt barātị, addhị rātị;rātạ cīr ke",
                     'adjEnglish': "rātal; rāt rạgā; raena sabāī"
@@ -154,9 +154,9 @@ var dataBhautik = {
                     'verb': "",
                     'adv': "PkwhA, fsqekbhA, fsqekbK ƒ, fsqekbK t/b/, shi/ gfjo, nkED ;w/A, b" + "Y/ t/b/, fdB bZE/, fdB Yb/, fdB v[Zp/, ;{oi bZE/, ;{oi Yb/, ;{oi v[Zp/, ;{oi S[g/",
                     'adj': "",
-                    'nounEnglish': "śām, trikālạ, sạjh, āthana, tījā paehar, laudhā velā, battī dā velā, sạdh, sūraj ast, ast kāl, pradokh kāl, raehrās samạ, dinạt, daịlāh, daịh lāh",
+                    'nounEnglish': "śām, trikālạ, sạjh, āthana, tījā paehar, lauḍhā veḷā, battī dā veḷā, sạdh, sūraj ast, ast kāl, pradokh kāl, raehrās samạ, dinạt, daịlāh, daịh lāh",
                     'verbEnglish': "",
-                    'advEnglish': "śāmị, trikālị, trikālạ nụ, trikālạ vele, tīje paehar, āthan samẹ,laudahe vele, din latthe, din dahale, din daubbe, sūraj latthe, sūraj dahale, sūraj daubbe, sūraj chupe",
+                    'advEnglish': "śāmị, trikālị, trikālạ nụ, trikālạ vele, tīje paehar, āthaṇ samẹ,laudahe vele, din latthe, din dahale, din daubbe, sūraj latthe, sūraj dahale, sūraj daubbe, sūraj chupe",
 
                     'advEnglish': "śāmī, trikālī, trikālạ nụ, trikālạ vele, tīje paehar, āthaṇ samẹ,laudahe vele, din latthe, din dahale, din daubbe, sūraj latthe, sūraj dahale, sūraj daubbe, sūraj chupe",
                     'adjEnglish': ""
@@ -210,10 +210,10 @@ var dataBhautik = {
                     'verb': 'L woBk, wo ikDkl w"' + "s nkT[Dh, p/ikB j'Dkl g{ok j'Dk, ubkDk eoBk, nekb ubkDk eoBk, i'sh i's ;wkT[Dk",
                     'adv': "wofdnK, wofdnK wofdnK, w'fJnKl wo yg e",
                     'adj': "wfonk, w'fJnkl w[odk, p/ikB, fBofizd, \sw, c" + "s, ihtB ofjsl nXw'fJnk fwqsel w[od/jko, w[ofdnK jko l woB i'rk, w" + 's i' + "rk, w'Jhdk, w'J/dkl nDj'fJnkl w" + '"s B[wk, ikB b/tk',
-                    'int': "wo goQK ` wo ikDk ` woB i'rk ` s?ƒ w" + "s gt/ ` w'J/dk ` w'Jhdk `",                    'nounEnglish': ": maut, mautraī, maran; maran marāna,maran māran; calānaā, akāl calānaā, azal, āī, ạt, dehạt, śarīrạt; kazā, kāl, marī mrit, mirtū, mrityū; murdehāna, murdehānaī; pralae, nipāt, nidhan, marg; nirjịdtā, nirjīvtā ạtim gharaī, ākhrī pal, ākhrī sāh hattiā, jīv hattiā, jī ghāt; hatiārā; ghātaktā, mārūpan; maut dạda, phạsī śav, loth, lāś, sav, arthī marghat, marhata, maraolī, pret bhūmī, jīrāna, marhī, masān, śamśān; sive, cikhā, citā sav sạskār, ạtim sạskār kabar, gor; kafan, khapphan anhọd, anhọdī; marnā, marnī varīnaā, barsī maran vart",
+                    'int': "wo goQK ` wo ikDk ` woB i'rk ` s?ƒ w" + "s gt/ ` w'J/dk ` w'Jhdk `",                    'nounEnglish': ": maut, mautraī, maran; maran marāna,maran māran; calānaā, akāl calānaā, azal, āī, ạt, dehạt, śarīrạt; kazā, kāl, marī mrit, mirtū, mrityū; murdehāna, murdehānaī; pralae, nipāt, nidhan, marg; nirjịdtā, nirjīvtā ạtim gharaī, āḳhrī pal, āḳhrī sāh hattiā, jīv hattiā, jī ghāt; hatiārā; ghātaktā, mārūpan; maut dạda, phạsī śav, loth, lāś, sav, arthī marghaṭ, marhata, maraolī, pret bhūmī, jīrāna, maṛhī, masāṇ, śamśān; sive, cikhā, citā sav sạskār, ạtim sạskār kabar, gor; kafan, khapphaṇ aṇhọd, aṇhọdī; marnā, marnī varīnaā, barsī maran vart",
 
-                    'nounEnglish': ": maut, mautraī, maran; maran marāna,maran māran; calānaā, akāl calānaā, azal, āī, ạt, dehạt, śarīrạt; kazā, kāl, marī mrit, mirtū, mrityū; murdehāna, murdehānaī; pralae, nipāt, nidhan, marg; nirjīdtā, nirjīvtā ạtim gharaī, ākhrī pal, ākhrī sāh hattiā, jīv hattiā, jī ghāt; hatiārā; ghātaktā, mārūpan; maut dạda, phạsī śav, loth, lāś, sav, arthī marghaṭ, marhata, maraolī, pret bhūmī, jīrāna, marhī, masān, śamśān; sive, cikhā, citā sav sạskār, ạtim sạskār kabar, gor; kafan, khapphan anhọd, anhọdī; marnā, marnī varīnaā, barsī maran vart",
-                    'verbEnglish': "marnā, marjānā; maut aunaī, bejān honaā; pūrā honaā, calānaā karnā, akāl calānaā karnā, jotī jot samaunaā",
+                    'nounEnglish': ": maut, mautraī, maran; maran marāna,maran māran; calānaā, akāl calānaā, azal, āī, ạt, dehạt, śarīrạt; kazā, kāl, marī mrit, mirtū, mrityū; murdehāna, murdehānaī; pralae, nipāt, nidhan, marg; nirjīdtā, nirjīvtā ạtim gharaī, āḳhrī pal, āḳhrī sāh hattiā, jīv hattiā, jī ghāt; hatiārā; ghātaktā, mārūpan; maut dạda, phạsī śav, loth, lāś, sav, arthī marghaṭ, marhata, maraolī, pret bhūmī, jīrāna, maṛhī, masāṇ, śamśān; sive, cikhā, citā sav sạskār, ạtim sạskār kabar, gor; kafan, khapphaṇ aṇhọd, aṇhọdī; marnā, marnī varīnaā, barsī maran vart",
+                    'verbEnglish': "marnā, marjāṇā; maut aunaī, bejān honaā; pūrā honaā, calānaā karnā, akāl calānaā karnā, jotī jot samaunaā",
                     'advEnglish': "mardiạ, mardiạ mardiạ, moiạ; mar khap ke",
                     'adjEnglish': "mariā, moiā; murdā, bejān, nirjịd, khatam, faut; jīvan raehat; adhmoiā mritak; murdehār, murdiạ hār; maran jogā; maut jogā, moīdā, moedā; anahoiā; maut numā; jān levā",
                     'intEnglish': "mar parạ ! mar jānaā !maran jogā ! taenụ maut pave !moedā ! moīdā"
@@ -231,8 +231,8 @@ var dataBhautik = {
                     'adv': "",
                     'adj': "",
                     'int': "",
-                    'nounEnglish': "driśṭī, driśṭtā, nazar, nigāh, nuktā nigāh, driśṭīkon,nazarīā; nadar; nījh, takk, takknī; lakś, uplakś; nazarsānī; punardriśṭī",
-                    'verbEnglish': "drisṭāunā, driśṭmān honā, nazar āunā",
+                    'nounEnglish': "driśṭī, driśṭtā, nazar, nigāh, nuktā nigāh, driśṭīkon,nazarīā; nadar; nījh, takk, takkṇī; lakś, uplakś; nazarsānī; punardriśṭī",
+                    'verbEnglish': "drisṭāunā, driśṭmān hoṇā, nazar āuṇā",
                     'advEnglish': "",
                     'adjEnglish': "",
                     'intEnglish': ""
@@ -244,15 +244,15 @@ var dataBhautik = {
                     'adv': "nZyK ;kjwD/, nZyK ;Kjt/Al t/y t/y e/, t/y uky e/, dhdk dkfB;sk, t/y e/, sZe e/, nZyK y'bQ e/l BIohAl gbehA, gbehA MbehAl fBrkj fNek e/l nZyK nZyK ftul nZy d/ c'o ftu, d/yk d/yh, t/yk t/yhl nZy T[jb/, nZy'A T[jb/, nZyK s'A T[jb/, nZy'A go'y/l nzXk X[zX, nzBQ/tkj, fpBk t/y",
                     'adj': "fvZmk, nZyhA fvZmk, nZyhA t/fynkl t/fynk ukfynkl t/yD :'rl ;[ikykl ;[b'uBk, fwqr B?Dh, fjoDkyh  dhdkohl uPwdhdl gbe Mbe dk  nDfvZmkl nfdZyl X[zXbk, rzXbkl uPwg'P",
                     'int': "",
-                    'nounEnglish': "akkh, naena, akkharaī, ạkh, āch,  akkhī, dīde, caśam, cakkh, cākh, drig, loina, netar, locan, vilocan, aena takknī, tiktikī; dīdā dalerī; bāz akkh, ill dī akkh, ucāvị nazar, teg nazar; svallī nazar taplā; putatahī nazar, upatthī nazar akkh macolī; akkh trina kanaakkhī; jālaā tījā netar, tījī akkh, traelocan, tarlocan, śivjī; naenaā devī palak, akkh jhamakkā, nimakh, palkārā, palak jhalak, akkh dā phor, akkh phrakkā jhāt, jhātī; jhạk, jhạkī, jhalak, jhalkī, jhalkār, jhalkārā; ạdar jhātī, ạtar driśtī, ịtarviū caśmā, aenak, khope, gāgalz; caśampośī annhāpana, ạdh, sūrdās, surmā sịgh apārdarśtā; ạdhrāj annhā, nābīnā; jamạdrū annhā,mādarzād annhā jhamīkhā, manākhā, bhaẹgā, kānaā, lakkh netrā bakkrī akkhā; dhritrāśtar",
-                    'verbEnglish': "vekhnaā, vekhnaā cāknaā, bhālnaā, pekhnaā, jhākanaā, takkanaā; vikhnaā, vikhāi denaā, disnaā, nazar aunaā; ākkhạ jhamaknaā;nazar tikāunaā, nigāh tikāunaā, tiktikī launaā; akkh jhamkāunaā, naena matakāunaā; naena lagāunaā, akkhạ laraāunaā; akkhạ mīhtnaā, netar mụdanaā; palāk lāunaī; akkhạ mhīt jānaā, akkhạ mhīt laenaā",
-                    'advEnglish': "akkhạ sāhmanae, akkhạ sahnvẹ; vekh vekh ke, vekh cākh ke, dīdā dānistā; vekh ke, takk ke, akkhạ khol ke; nazrị; palkị, palkị jhalkị; nigāh tikā ke; akkhạ akkhạ vic, akkh de phor vic; dekhā dekhī, vekhā vekhī; akkh ohle,  akkhọ ohle, akkhạ tọ ohle; akkhọ parokhe; ạdhā dhụdh, annehvāh, binā vekhe",
-                    'adjEnglish': "ditthā, akkhị ditthā, akkhị vekhiā; vekhiā cākhiā; vekhana yog; sujākhā, sulocnā; mrig naenaī, hirnaākhī  dīdārī; caśamdīd; palak jhalak dā  andaitatahā; adikkh; dhụdhlā, gạdhlā; chaśampoś",
+                    'nounEnglish': "akkh, naena, akkharaī, ạkh, āch,  akkhī, dīde, caśam, cakkh, cākh, drig, loina, netar, locan, vilocan, aena takknī, ṭikṭikī; dīdā dalerī; bāz akkh, ill dī akkh, ucāvị nazar, teg nazar; svallī nazar ṭaplā; putatahī nazar, upaṭṭhī nazar akkh macolī; akkh trina kanaakkhī; jālaā tījā netar, tījī akkh, traelocan, tarlocan, śivjī; naenaā devī palak, akkh jhamakkā, nimakh, palkārā, palak jhalak, akkh dā phor, akkh phrakkā jhāt, jhātī; jhạk, jhạkī, jhalak, jhalkī, jhalkār, jhalkārā; ạdar jhātī, ạtar driśṭī, ịṭarviū caśmā, aenak, khope, gāgalz; caśampośī annhāpana, ạdh, sūrdās, surmā sịgh apārdarśtā; ạdhrāj annhā, nābīnā; jamạdrū annhā,mādarzād annhā jhamīkhā, manākhā, bhaẹgā, kānaā, lakkh netrā bakkrī akkhā; dhritrāśṭar",
+                    'verbEnglish': "vekhnaā, vekhnaā cāknaā, bhālnaā, pekhnaā, jhākanaā, takkanaā; vikhnaā, vikhāi denaā, disnaā, nazar aunaā; ākkhạ jhamaknaā;nazar ṭikāunaā, nigāh ṭikāunaā, ṭikṭikī launaā; akkh jhamkāunaā, naena matakāunaā; naena lagāunaā, akkhạ laraāunaā; akkhạ mīhṭnaā, netar mụdanaā; palāk lāunaī; akkhạ mhīt jānaā, akkhạ mhīṭ laenaā",
+                    'advEnglish': "akkhạ sāhmanae, akkhạ sahnvẹ; vekh vekh ke, vekh cākh ke, dīdā dānistā; vekh ke, takk ke, akkhạ khol ke; nazrị; palkị, palkị jhalkị; nigāh ṭikā ke; akkhạ akkhạ vic, akkh de phor vic; dekhā dekhī, vekhā vekhī; akkh ohle,  akkhọ ohle, akkhạ tọ ohle; akkhọ parokhe; ạdhā dhụdh, annehvāh, binā vekhe",
+                    'adjEnglish': "ḍiṭṭhā, akkhị diṭṭhā, akkhị vekhiā; vekhiā cākhiā; vekhana yog; sujākhā, sulocnā; mrig naenaī, hirnaākhī  dīdārī; caśamdīd; palak jhalak dā  andaitatahā; adikkh; dhụdhlā, gạdhlā; chaśampoś",
 
                     'nounEnglish': "akkh, naena, akkharaī, ạkh, āch,  akkhī, dīde, caśam, cakkh, cākh, drig, loina, netar, locan, vilocan, aena takknī, ṭikṭikī; dīdā dalerī; bāz akkh, ill dī akkh, ucāvī nazar, teg nazar; svallī nazar ṭaplā; putatahī nazar, upaṭṭhī nazar akkh macolī; akkh trina kanaakkhī; jālaā tījā netar, tījī akkh, traelocan, tarlocan, śivjī; naenaā devī palak, akkh jhamakkā, nimakh, palkārā, palak jhalak, akkh dā phor, akkh phrakkā jhāt, jhātī; jhạk, jhạkī, jhalak, jhalkī, jhalkār, jhalkārā; ạdar jhātī, ạtar driśṭī, īṭarviū caśmā, aenak, khope, gāgalz; caśampośī annhāpana, ạdh, sūrdās, surmā sīgh apārdarśtā; ạdhrāj annhā, nābīnā; jamạdrū annhā,mādarzād annhā jhamīkhā, manākhā, bhaẹgā, kānaā, lakkh netrā bakkrī akkhā; dhritrāśṭar",
                     'verbEnglish': "vekhnaā, vekhnaā cāknaā, bhālnaā, pekhnaā, jhākanaā, takkanaā; vikhnaā, vikhāi denaā, disnaā, nazar aunaā; ākkhạ jhamaknaā;nazar ṭikāunaā, nigāh ṭikāunaā, ṭikṭikī launaā; akkh jhamkāunaā, naena matakāunaā; naena lagāunaā, akkhạ laraāunaā; akkhạ mīhṭnaā, netar mụdanaā; palāk lāunaī; akkhạ mhīt jānaā, akkhạ mhīṭ laenaā",
                     'advEnglish': "akkhạ sāhmanae, akkhạ sahnvẹ; vekh vekh ke, vekh cākh ke, dīdā dānistā; vekh ke, takk ke, akkhạ khol ke; nazrī; palkī, palkī jhalkī; nigāh ṭikā ke; akkhạ akkhạ vic, akkh de phor vic; dekhā dekhī, vekhā vekhī; akkh ohle,  akkhọ ohle, akkhạ tọ ohle; akkhọ parokhe; ạdhā dhụdh, annehvāh, binā vekhe",
-                    'adjEnglish': "diṭṭhā, akkhī diṭṭhā, akkhī vekhiā; vekhiā cākhiā; vekhana yog; sujākhā, sulocnā; mrig naenaī, hirnaākhī  dīdārī; caśamdīd; palak jhalak dā  andaitatahā; adikkh; dhụdhlā, gạdhlā; chaśampoś",
+                    'adjEnglish': "ḍiṭṭhā, akkhī diṭṭhā, akkhī vekhiā; vekhiā cākhiā; vekhana yog; sujākhā, sulocnā; mrig naenaī, hirnaākhī  dīdārī; caśamdīd; palak jhalak dā  andaitatahā; adikkh; dhụdhlā, gạdhlā; chaśampoś",
                     'intEnglish': ""
                 }, {
                     'name': "doPB",
@@ -292,7 +292,7 @@ var dataBhautik = {
                     'verbEnglish': "",
                     'advEnglish': "",
 
-                    'adjEnglish': "pārdarśī, nirmal, balaurī, nịbal, rośan; pratakkh, pragata, zāhir; śiśe vargā, nitriā,nikhriā,svacch, ujālā , sāf, śafāf, spaśt; saccā, niśkapt, kharā; praveśnaī,  kristalī",
+                    'adjEnglish': "pārdarśī, nirmal, balaurī, nịbal, rośan; pratakkh, pragata, zāhir; śiśe vargā, nitriā,nikhriā,svacch, ujālā , sāf, śafāf, spaśṭ; saccā, niśkapṭ, kharā; praveśnaī,  krisṭalī",
 
                     'adjEnglish': "pārdarśī, nirmal, balaurī, nībal, rośan; pratakkh, pragata, zāhir; śiśe vargā, nitriā,nikhriā,svacch, ujālā , sāf, śafāf, spaśṭ; saccā, niśkapṭ, kharā; praveśnaī,  krisṭalī",
 
@@ -337,7 +337,7 @@ var dataBhautik = {
                     'adv': "jko fPzrko bk e",
                     'adj': "fPzrkfonk",
                     'int': "",
-                    'nounEnglish': "śịgār, banāo śịgār, banā śịgār, hār śịgār; tamgā, takmā, maedaal, tāre, phītī, padak",
+                    'nounEnglish': "śịgār, baṇāo śịgār, baṇā śịgār, hār śịgār; tamgā, takmā, maedaal, tāre, phītī, padak",
                     'verbEnglish': "śịgārnā, śịgār karnā, hār śịgār karnā",
                     'advEnglish': "hār śịgār lā ke",
                     'adjEnglish': "śịgāriā",
@@ -351,9 +351,9 @@ var dataBhautik = {
                     'adj': "",
                     'int': "",
 
-                    'nounEnglish': "zevar, gaehnae, bhūśan, tūm, tūm tallā; śịgār patataī; gānī, rānīhār, kaẹtahā; nattiạ, murkīạ, jhumkā; natth, kokā, machlī; bāzūbạd, cūraīạ; challā; pataraīạ ghụgariạ, pạjeb, pāil",
+                    'nounEnglish': "zevar, gaehnae, bhūśan, ṭūm, ṭūm ṭallā; śịgār patataī; gānī, rāṇīhār, kaẹtahā; nattiạ, murkīạ, jhumkā; natth, kokā, machlī; bāzūbạd, cūraīạ; challā; pataraīạ ghụgariạ, pạjeb, pāil",
 
-                    'nounEnglish': "zevar, gaehnae, bhūśan, ṭūm, ṭūm ṭallā; śīgār patataī; gānī, rānīhār, kaẹtahā; nattiạ, murkīạ, jhumkā; natth, kokā, machlī; bāzūbạd, cūraīạ; challā; pataraīạ ghụgariạ, pạjeb, pāil",
+                    'nounEnglish': "zevar, gaehnae, bhūśan, ṭūm, ṭūm ṭallā; śīgār patataī; gānī, rāṇīhār, kaẹtahā; nattiạ, murkīạ, jhumkā; natth, kokā, machlī; bāzūbạd, cūraīạ; challā; pataraīạ ghụgariạ, pạjeb, pāil",
 
                     'verbEnglish': "",
                     'advEnglish': "",
@@ -395,7 +395,7 @@ var dataBhautik = {
                     'int': "",
                     'nounEnglish': "nakahrā, nāz nakahrā, nakahrebāzī, adā;chamak challo, nakahrelo; bharakīlāpan,rạgīlāpan ",
                     'verbEnglish': "",
-                    'advEnglish': "nakhre nāl",
+                    'advEnglish': "naḳhre nāl",
                     'adjEnglish': "",
                     'intEnglish': ""
                 }
@@ -412,13 +412,13 @@ var dataBhautik = {
                 'adv': 'X"bhAl ek+hAl ozr/ jZEhAl fuZN/ fdB tKr',
                 'adj': "ozrdko, ozrhB, ozr pozrk, ozrbk, oKrbk, ozrhbk, ozrhb, ozrhbVk,ozrwJh  ozrk ozr, ozr ozr dkl ;[ozrkl tzB ;[tzBk  :e ozrl \[Pozrl gZe/ ozr dkl ;[o\ o{l e[woh  p/ozr, ozrjhD, toDjhD, pdozr, eZu/ ozr dk, jbe/ ozr dk, fcZek",
                 'int': "",
-                'nounEnglish': "rạg, rạgat; varan, baran, bhāh, vann, vannagī; putth, jhāl  rạg rogan, pāliś; yak rạgī; pakkā rạg; savāiā rạg; do rạgī; kaccā rạg, jhūthā rạg  rạgolī; rạgat, parạgat; rạg bhed;  rạg pattī  bhagvākaran  satrạgī pịgh  citr, tasvīr, pẹtaịg; citrkār, musavvar, pẹtaar; citrkārī; rạgāī, rạgvāī, rạgana; lalārī, rạgrez, rạgsāz; rạgrezī, rạgsāzī, rạgkārī; mūrat,mūrtī; nakkāś; nakkāśī  lālī, surakhī, lālgī; lāl daorā  nīlattan; nīle paer  pīlattan, pīlāpan, zardī  hariāī, hariālī, maulaī  kālakh, siāhī, kalittan, sạvlāpan, kajjal di kothraī; mụh kālakh, mụh kālī bheda,  kālā dil; citiāī, safedī; tittar khạbhī baddlī; kalar, sakūl kalar, kālaj kalar, unīvarsitī kalar  baej",
-                'verbEnglish': "rạgnā, rạg karnā, rạg cārhnā, rạg carahāunā, rạg bharnā, rạgāunaā, rạgvāunaā; rạg lagnaā  rạgat pharanī, rạgat carahnī, rạgat carahāunaī, rạg denā, rạgat denī, rạgānaā, jhāl carahāunaī, rạg phernā, rogan karnā  jhalak mārnī, bhāh mārnī, āb disnaī  citrnā, citr banaāunaā, citrkārī karnā  rạg chirakanaā; śeda denaī; rạg badalnaā; rạg lāl honaā; rạg pīlā paenaā  rạg mitaāunaā, rạg katnaā, rạg lāhunaā, rạg udaāunaā, rạg pụjhanaā, rạg mitnaā, āb udāunaī, jhāla udāunaī rạgat lāhunaī, rạgat mitnī, rạgat mitāunaī  rạge hatthị pharanā; rạg udanaā, rạg bhussā paenaā, rạg phakk honaā",
-                'advEnglish': "dhaulị; kālị; rạge hatthị; citte din vạg",
-                'adjEnglish': "rạgdār, rạgīn, rạg barạgā; rạglā, rạglā, rạgīlā, rạgīl, rạgīlraā, rạgmaī  rạgā rạg, rạg rạg dā; surạgā; vann suvannā  yak rạg; khuśrạg; pakke rạg dā; surkh-rū; kumrī  berạg, rạghīna, varanhīn; badrạg, kacce rạg dā, halke rạg dā, phikkā",
+                'nounEnglish': "rạg, rạgat; varaṇ, baran, bhāh, vann, vannagī; puṭṭh, jhāl  rạg rogan, pāliś; yak rạgī; pakkā rạg; savāiā rạg; do rạgī; kaccā rạg, jhūṭhā rạg  rạgolī; rạgat, parạgat; rạg bhed;  rạg paṭṭī  bhagvākaran  satrạgī pịgh  citr, tasvīr, pẹtaịg; citrkār, musavvar, pẹtaar; citrkārī; rạgāī, rạgvāī, rạgana; lalārī, rạgrez, rạgsāz; rạgrezī, rạgsāzī, rạgkārī; mūrat,mūrtī; nakkāś; nakkāśī  lālī, suraḳhī, lālgī; lāl daorā  nīlattan; nīle paer  pīlattan, pīlāpan, zardī  hariāī, hariālī, maulaī  kālaḳh, siāhī, kalittaṇ, sạvlāpan, kajjal di koṭhraī; mụh kālakh, mụh kāḷī bheda,  kālā dil; ciṭiāī, safedī; tittar khạbhī baddlī; kalar, sakūl kalar, kālaj kalar, unīvarsiṭī kalar  baej",
+                'verbEnglish': "rạgṇā, rạg karnā, rạg cāṛhnā, rạg carahāuṇā, rạg bharnā, rạgāunaā, rạgvāunaā; rạg lagnaā  rạgat pharanī, rạgat carahnī, rạgat carahāunaī, rạg deṇā, rạgat deṇī, rạgānaā, jhāl carahāunaī, rạg phernā, rogan karnā  jhalak mārnī, bhāh mārnī, āb disnaī  citrnā, citr banaāunaā, citrkārī karnā  rạg chirakanaā; śeda denaī; rạg badalnaā; rạg lāl honaā; rạg pīlā paenaā  rạg mitaāunaā, rạg kaṭnaā, rạg lāhunaā, rạg udaāunaā, rạg pụjhanaā, rạg miṭnaā, āb uḍāunaī, jhāla uḍāunaī rạgat lāhunaī, rạgat miṭṇī, rạgat miṭāunaī  rạge hatthị pharanā; rạg udanaā, rạg bhussā paenaā, rạg phakk honaā",
+                'advEnglish': "dhaulị; kāḷị; rạge hatthị; ciṭṭe din vạg",
+                'adjEnglish': "rạgdār, rạgīn, rạg barạgā; rạglā, rạglā, rạgīlā, rạgīl, rạgīlraā, rạgmaī  rạgā rạg, rạg rạg dā; surạgā; vann suvannā  yak rạg; khuśrạg; pakke rạg dā; surḳh-rū; kumrī  berạg, rạghīna, varaṇhīn; badrạg, kacce rạg dā, halke rạg dā, phikkā",
 
-                'nounEnglish': "rạg, rạgat; varan, baran, bhāh, vann, vannagī; puṭṭh, jhāl  rạg rogan, pāliś; yak rạgī; pakkā rạg; savāiā rạg; do rạgī; kaccā rạg, jhūṭhā rạg  rạgolī; rạgat, parạgat; rạg bhed;  rạg paṭṭī  bhagvākaran  satrạgī pīgh  citr, tasvīr, pẹtaīg; citrkār, musavvar, pẹtaar; citrkārī; rạgāī, rạgvāī, rạgana; lalārī, rạgrez, rạgsāz; rạgrezī, rạgsāzī, rạgkārī; mūrat,mūrtī; nakkāś; nakkāśī  lālī, surakhī, lālgī; lāl daorā  nīlattan; nīle paer  pīlattan, pīlāpan, zardī  hariāī, hariālī, maulaī  kālakh, siāhī, kalittan, sạvlāpan, kajjal di koṭhraī; mụh kālakh, mụh kālī bheda,  kālā dil; ciṭiāī, safedī; tittar khạbhī baddlī; kalar, sakūl kalar, kālaj kalar, unīvarsiṭī kalar  baej",
-                'verbEnglish': "rạgnā, rạg karnā, rạg cārhnā, rạg carahāunā, rạg bharnā, rạgāunaā, rạgvāunaā; rạg lagnaā  rạgat pharanī, rạgat carahnī, rạgat carahāunaī, rạg denā, rạgat denī, rạgānaā, jhāl carahāunaī, rạg phernā, rogan karnā  jhalak mārnī, bhāh mārnī, āb disnaī  citrnā, citr banaāunaā, citrkārī karnā  rạg chirakanaā; śeda denaī; rạg badalnaā; rạg lāl honaā; rạg pīlā paenaā  rạg mitaāunaā, rạg kaṭnaā, rạg lāhunaā, rạg udaāunaā, rạg pụjhanaā, rạg miṭnaā, āb uḍāunaī, jhāla uḍāunaī rạgat lāhunaī, rạgat miṭnī, rạgat miṭāunaī  rạge hatthī pharanā; rạg udanaā, rạg bhussā paenaā, rạg phakk honaā",
+                'nounEnglish': "rạg, rạgat; varaṇ, baran, bhāh, vann, vannagī; puṭṭh, jhāl  rạg rogan, pāliś; yak rạgī; pakkā rạg; savāiā rạg; do rạgī; kaccā rạg, jhūṭhā rạg  rạgolī; rạgat, parạgat; rạg bhed;  rạg paṭṭī  bhagvākaran  satrạgī pīgh  citr, tasvīr, pẹtaīg; citrkār, musavvar, pẹtaar; citrkārī; rạgāī, rạgvāī, rạgana; lalārī, rạgrez, rạgsāz; rạgrezī, rạgsāzī, rạgkārī; mūrat,mūrtī; nakkāś; nakkāśī  lālī, suraḳhī, lālgī; lāl daorā  nīlattan; nīle paer  pīlattan, pīlāpan, zardī  hariāī, hariālī, maulaī  kālaḳh, siāhī, kalittaṇ, sạvlāpan, kajjal di koṭhraī; mụh kālakh, mụh kāḷī bheda,  kālā dil; ciṭiāī, safedī; tittar khạbhī baddlī; kalar, sakūl kalar, kālaj kalar, unīvarsiṭī kalar  baej",
+                'verbEnglish': "rạgṇā, rạg karnā, rạg cāṛhnā, rạg carahāuṇā, rạg bharnā, rạgāunaā, rạgvāunaā; rạg lagnaā  rạgat pharanī, rạgat carahnī, rạgat carahāunaī, rạg deṇā, rạgat deṇī, rạgānaā, jhāl carahāunaī, rạg phernā, rogan karnā  jhalak mārnī, bhāh mārnī, āb disnaī  citrnā, citr banaāunaā, citrkārī karnā  rạg chirakanaā; śeda denaī; rạg badalnaā; rạg lāl honaā; rạg pīlā paenaā  rạg mitaāunaā, rạg kaṭnaā, rạg lāhunaā, rạg udaāunaā, rạg pụjhanaā, rạg miṭnaā, āb uḍāunaī, jhāla uḍāunaī rạgat lāhunaī, rạgat miṭṇī, rạgat miṭāunaī  rạge hatthī pharanā; rạg udanaā, rạg bhussā paenaā, rạg phakk honaā",
                 'advEnglish': "dhaulī; kāḷī; rạge hatthī; ciṭṭe din vạg",
                 'adjEnglish': "rạgdār, rạgīn, rạg barạgā; rạglā, rạglā, rạgīlā, rạgīl, rạgīlraā, rạgmaī  rạgā rạg, rạg rạg dā; surạgā; vann suvannā  yak rạg; khuśrạg; pakke rạg dā; surḳh-rū; kumrī  berạg, rạghīna, varaṇhīn; badrạg, kacce rạg dā, halke rạg dā, phikkā",
 
@@ -434,7 +434,7 @@ var dataBhautik = {
                 'nounEnglish': "",
                 'verbEnglish': "",
                 'advEnglish': "",
-                'adjEnglish': "lāl, sūhā, lāl sūhā, rattā, rattā lāl, surkh, lāl surkh, sạdhūrī, anārī, gulānārī, śaehtūtī, gulābī, piāzī, tarbūzī, fālsaī, khaṭmalī, kasụbh, kasụbhrā, lākhā, kirmcī, kirmzī, unābī, lohit, arun, yākūtī, sạgarfī, sạjarfī, lālo lāl; gulāl",
+                'adjEnglish': "lāl, sūhā, lāl sūhā, rattā, rattā lāl, surḳh, lāl surḳh, sạdhūrī, anārī, gulānārī, śaehtūtī, gulābī, piāzī, tarbūzī, fālsaī, khaṭmalī, kasụbh, kasụbhṛā, lākhā, kirmcī, kirmzī, unābī, lohit, arun, yākūtī, sạgarfī, sạjarfī, lālo lāl; gulāl",
                 'intEnglish': ""
             }, {
                 'name': "Bhbk ozr",
@@ -461,7 +461,7 @@ var dataBhautik = {
                 'verbEnglish': "",
                 'advEnglish': "",
 
-                'adjEnglish': "pīlā, pīlā bhūk, khatataā, pīt,pịg;svaran, sunaehrī; gerūā, bhagvā; tāmraī, śarbatī, pīlāvasār, bhussā; basạtī, motīā, chạpaī, amaltāsīā, kesarī, zāfrānī, argvīnī, khurmānī, badāmī, sạdalī, kapāhī, kapūrī, kāfūrī, ạbrasī, amrasī",
+                'adjEnglish': "pīlā, pīlā bhūk, khatataā, pīt,pịg;svaran, sunaehrī; gerūā, bhagvā; tāmraī, śarbatī, pīlāvasār, bhussā; basạtī, motīā, chạpaī, amaltāsīā, kesarī, zāfrānī, argvīnī, ḳhurmānī, badāmī, sạdalī, kapāhī, kapūrī, kāfūrī, ạbrasī, amrasī",
 
                 'adjEnglish': "pīlā, pīlā bhūk, khatataā, pīt,pīg;svaran, sunaehrī; gerūā, bhagvā; tāmraī, śarbatī, pīlāvasār, bhussā; basạtī, motīā, chạpaī, amaltāsīā, kesarī, zāfrānī, argvīnī, ḳhurmānī, badāmī, sạdalī, kapāhī, kapūrī, kāfūrī, ạbrasī, amrasī",
 
@@ -555,7 +555,7 @@ var dataBhautik = {
                 'nounEnglish': "",
                 'verbEnglish': "",
                 'advEnglish': "",
-                'adjEnglish': "vann suvann, citrā mitrā, citla mitlā,tetrā, tetrā metrā, kabrā, citkabrā, daabbā,daabb khraabbā, cittal, khatamalī, tilcaulaī, karara bararaī; ablak satrangī",
+                'adjEnglish': "vann suvann, citrā mitrā, citla mitlā,tetṛā, tetrā metrā, kabrā, citkabrā, daabbā,daabb khraabbā, cittal, khatamalī, tiḷcaulaī, karara bararaī; ablak satrangī",
                 'intEnglish': ""
             }, {
                 'name': "fu~Nk ozr",
@@ -568,7 +568,7 @@ var dataBhautik = {
                 'nounEnglish': "",
                 'verbEnglish': "",
                 'advEnglish': "",
-                'adjEnglish': "ciṭṭaā, safaed, safed, saped; ciṭṭā safaed, barf ciṭṭā, ciṭṭā duddh, duddh ciṭṭā, ciṭṭā khamūr, khanbūr, ciṭṭā khunb; dudhīā, nukraī  safaed motīā, pundaar  gorā, gorā nichoh, baggā, bagraā, cīnā, ujlā, ujjal, kakkā, dhaulā, śukl  nargasī",
+                'adjEnglish': "ciṭṭaā, safaed, safed, saped; ciṭṭā safaed, barf ciṭṭā, ciṭṭā duddh, duddh ciṭṭā, ciṭṭā khamūr, khanbūr, ciṭṭā khunb; dudhīā, nukraī  safaed motīā, pundaar  gorā, gorā nichoh, baggā, bagraā, cīnā, ujlā, ujjal, kakkā, dhauḷā, śukl  nargasī",
                 'intEnglish': ""
             }, {
                 'name': "ek+k ozr",
@@ -596,9 +596,9 @@ var dataBhautik = {
                 'adj': "sgs, sZsk, sgdk, sfgnk, sgkfJnkl ;fVnk, ;Vdk, pbdkl fgxfbnk, fgxbdkl T[pfbnk, T[pbdkl ibdk, ;Vdk pbdk, ;fVnk j'fJnk, ;fVnk pfbnk, G[Zfink, ;fVnk G[Zfink  b{f;nk, b{fjnk  row, rowk rowl row ;od, sZsk^mzYk  ibDPhb, gqitfbsl Bkohl itkbkw[yhl nkfsP|PK  skg ;zukbel skg e[ukbe",
                 'int': "",
                 'nounEnglish': "tāp, tapaś, tā, tāo, sek, sekā, harārat; ubāl; pighlāo; garmāī, garmāiś, garmaeś; garmī, garmīān, basant-antak, grīśam, garam rutt, hunāl; hussara, huss, humm, ghummā  lūhā, sarsām, tāptili, tā bhuss, jhuls rog  tāpmān, ṭaenprecar, darjā harārat; ubāl darjā; darjā pighlāo  tāp sancālana, tāp sanvaehana, tāp vikīran",
-                'verbEnglish': "balnaā, bālnaā, jalnaā, jālnaā, jalāunaā, jalānaā, sarnā, sar jānaā, dajjhnaā, daajjhnaā, dagnaā, bharaknaā, garahknaā, macāunaā, lata lata balnaā, lūhnaā, jhulsanaā; ubalnaā, ubāl uṭṭhnaā, ubāl āunaā; pighalnaā  maghnaā, maghāunaā, dhukhāunaā, baḷ paenaā, bala utahnaā, macnaā, mac uṭhnaā, lātaān chadanaā, lapṭān chhadanaā, cinagān chuṭanaiān, cingiārae udanaā; bhānbara macnaā",
+                'verbEnglish': "balnaā, bālnaā, jalnaā, jālnaā, jalāunaā, jalānaā, saṛnā, saṛ jānaā, dajjhnaā, daajjhnaā, dagnaā, bharaknaā, garahknaā, macāunaā, lata lata balnaā, lūhnaā, jhulsanaā; ubalnaā, ubāl uṭṭhnaā, ubāl āunaā; pighalnaā  maghnaā, maghāunaā, dhukhāunaā, baḷ paenaā, bala utahnaā, macnaā, mac uṭhnaā, lātaān chadanaā, lapṭān chhadanaā, cinagān chuṭanaiān, cingiārae udanaā; bhānbara macnaā",
                 'advEnglish': "",
-                'adjEnglish': "tapat, tattā, tapdā, tapiā, tapāiā; saraiā, saradā, baldā; pighaliā, pighaldā; ubaliā, ubaldā; jaldā, saradā baldā, saraiā hoiā, saraiā baliā, bhujjiā, saraiā bhujjiā  lūsiā, lūhiā  garam, garmā garam; garam sard, tattā- ṭhandaā  jalanśīl, prajavalit; nārī, javālāmukhī, ātiśfaśān  tāp sancālak; tāp kucālak",
+                'adjEnglish': "tapat, tattā, tapdā, tapiā, tapāiā; saraiā, saradā, baldā; pighaliā, pighaldā; ubaliā, ubaldā; jaldā, saradā baḷdā, saraiā hoiā, saraiā baliā, bhujjiā, saraiā bhujjiā  lūsiā, lūhiā  garam, garmā garam; garam sard, tattā- ṭhandaā  jalanśīl, prajavalit; nārī, javālāmukhī, ātiśfaśān  tāp sancālak; tāp kucālak",
                 'intEnglish': ""
             }, {
                 'name': "nZr",
@@ -608,10 +608,10 @@ var dataBhautik = {
                 'adv': "",
                 'adj': "nZr bkT[Dk, nZr ftykT[Dk, nZr fdykT[Dkl rq/B/v ;[ZNDk, pzp ;[NDkl  u[nksh bkT[Dk, fw;kJhb dkrDk, okfeN dkrD",
                 'int': "",
-                'nounEnglish': "agg, agnī, agan, basantar, bhāh, bhānbara  ātiś, pāvak; kasunbhraā; juālā, javālā, nār, daaun, daaun  jot, jotī; lāta, lanb, lapat; cingiāraī, cingārī, cingiāraā, agnī kana, cinaag  sāra  bijlī, dāmnī  jotān vālī, lāṭān vālī, javālā jī lohraī; dahāndarī, dahāndrī, dahāndaī  dasaehrā; dīvālī, dīpāvalī, dīpmālā; ātiśbāzī, astbāzī, ātiśbāz, astbāz  maśāl, maśal; maśālcī  angītahī; dhūnaī; angiār, angār, angiārā, angiārī, angārī  co, cuātī, muātā  lānbū; dīvā vattī; sivā, marahī, citā, cikahā, angīṭhā visphoṭ, dhamākā, bhabūkā, bhamākā  banb, bamm; greneda, hatth golaā; rākita, misāil;aetaam banb, pramānū banb",
+                'nounEnglish': "agg, agnī, agan, basantar, bhāh, bhānbara  ātiś, pāvak; kasunbhraā; juālā, javālā, nār, daaun, daaun  jot, jotī; lāta, lanb, lapaṭ; cingiāraī, cingārī, cingiāraā, agnī kana, cinaag  sāra  bijlī, dāmnī  jotān vālī, lāṭān vālī, javālā jī lohraī; dahāndarī, dahānḍṛī, dahāndaī  dasaehrā; dīvālī, dīpāvalī, dīpmālā; ātiśbāzī, astbāzī, ātiśbāz, astbāz  maśāl, maśal; maśālcī  angītahī; dhūnaī; angiār, angār, angiārā, angiārī, angārī  co, cuātī, muātā  lānbū; dīvā vaṭṭī; sivā, marahī, citā, cikahā, angīṭhā visphoṭ, dhamākā, bhabūkā, bhamākā  banb, bamm; greneda, hatth golaā; rākita, misāil;aetaam banb, pramāṇū banb",
                 'verbEnglish': "",
                 'advEnglish': "",
-                'adjEnglish': "agg lāunaā, agg vikhāunaā, agg dikhāunaā; greneda suṭṭnaā, banb suṭṭnaā; cuātī lāunaā, misāīl dāgnā, rakiṭ dāgnā",
+                'adjEnglish': "agg lāunaā, agg vikhāunaā, agg dikhāunaā; greneda suṭṭnaā, banb suṭṭnaā; cuātī lāunaā, misāīl dāgṇā, rakiṭ dāgṇā",
                 'intEnglish': ""
             }, {
                 'name': "G~mh",
@@ -621,8 +621,8 @@ var dataBhautik = {
                 'adv': "",
                 'adj': "",
                 'int': "",
-                'nounEnglish': "cullhā, cullh; tandūr; bhaṭṭhī, bhaṭṭhā, bhaṭṭh  saṭov; hāṭpaleṭ; ovan; kanvaekṭar; redieṭar; sanvaehankārak yantar  bhaṭṭhī vālī, bhaṭhiāran; bharabhūnjā; bhaṭṭh jhokā",
-                'verbEnglish': "cullhā bālnā, cullhā bhakhnaā; cullhā bhakhaunaā; saṭov bālnaā, saṭov balnaā , tandūr bālnaā, tandūr tāunaā, tandūr balnaā, tandūr tapāunaā; bhaṭṭhī tāunaī, bhaṭṭhī bālnaā",
+                'nounEnglish': "cullhā, cullh; tandūr; bhaṭṭhī, bhaṭṭhā, bhaṭṭh  saṭov; hāṭpaleṭ; ovan; kanvaekṭar; reḍieṭar; sanvaehaṇkārak yantar  bhaṭṭhī vālī, bhaṭhiāran; bharabhūnjā; bhaṭṭh jhokā",
+                'verbEnglish': "cullhā bālṇā, cullhā bhakhnaā; cullhā bhakhaunaā; saṭov bālnaā, saṭov balnaā , tandūr bālnaā, tandūr tāunaā, tandūr balnaā, tandūr tapāunaā; bhaṭṭhī tāunaī, bhaṭṭhī bālnaā",
                 'advEnglish': "",
                 'adjEnglish': "",
                 'intEnglish': ""
@@ -634,7 +634,7 @@ var dataBhautik = {
                 'adv': "",
                 'adj': "",
                 'int': "",
-                'nounEnglish': "bālana, īndhan, ūrjā sarot  kakkh, kakkh kān, būrā, daakk, lakraī  sukkā gohiā, sukkā gohā, sukkā gobar, uple, pāthīān; gobar gaes, bāio gaes, jaev gaes  miṭṭī dā tel, kaerosin āil, ghāsleṭ  rasoī gaes, cullhā gaes, ell pī jī  dīzal; paeṭrol, sikke vāḷā paetrol, sikkā raeht paeṭrol; spīda, resar, aeksṭrā prīmīam  koḷā, kaccā koḷā, patthar dā koḷā, khanaij koḷā, bhūrā kolaā, lignāiṭ, sāfṭkol, hārda kol",
+                'nounEnglish': "bālana, īndhaṇ, ūrjā sarot  kakkh, kakkh kān, būrā, daakk, lakraī  sukkā gohiā, sukkā gohā, sukkā gobar, uple, pāthīān; gobar gaes, bāio gaes, jaev gaes  miṭṭī dā tel, kaerosin āil, ghāsleṭ  rasoī gaes, cullhā gaes, ell pī jī  ḍīzal; paeṭrol, sikke vāḷā paeṭrol, sikkā raeht paeṭrol; spīda, resar, aeksṭrā prīmīam  koḷā, kaccā koḷā, patthar dā koḷā, khanaij koḷā, bhūrā kolaā, lignāiṭ, sāfṭkol, hārda kol",
                 'verbEnglish': "",
                 'advEnglish': "",
                 'adjEnglish': "",
@@ -661,7 +661,7 @@ var dataAbhautik = {
             'nounEnglish': "pavittartā, pāvantā, nirmaltā, pāk dāmnī, pārdarśtā, śuddhtā, suddhī, sodh, suddhīkarana, śodh, succ, succam, succamtā, soc, svacchtā, niśkalanktā, nihkalanktā, sāf dilī, kharāpan, nafāsat, kulīntā, pākīzgī, punn,  pāp nivāran, sucajj, sucajjtā, siānaap,   sugharatā,   rośandimāgī, pārsāī;  kahālsā  parhezgārī, nirleptā, aleptā, nirpakkhtā; pīrī, fakīrī; sant, sādh, pīr, fakīr, fakkar, valī, pārsā, dharmātmā, punniātmā; gurdīkhiā, brahm giān,  ātām vidiā, saehaj, saehajvād,  gūrmāt, śubh karman, śabad kīrtan",
             'verbEnglish': "pavittar karnā, pāk karnā, śuddh karnā; pavittar honaā, śuddh honaā; saf suthrā banaāunaā, sucajjā banāunaā; kharā utarnā;  maela lāhunaī, maela utārnī, kālax dhonaī;dāġ lāhunaā, kalañk lāhunaā",
             'advEnglish': "pavittartā saeht, sāf sāf, sāf dilī nāl, śuddh rūp vic, pākīzgī nāl, suthre dahañg nāl, svacchtā pūrvak, sucajje dahañg nāla, nirpakkhtā nāl, nāfāsat nāl",
-            'adjEnglish': "pavittar, pavittr, pavitt, pavīt, punīt, pāvan, xālas, pāk; succā, kharā, śuddh, sāf, suthrā, sāf śafāf; nirmal, svacch, kulīn; sucajjā, adūśit,  ujjal, ujlā,   balaurī, siānaā, sughara, nafīs; patit pāvan, niśkalañk,nihkalañk, bedāġ, dāġhīna, dāġraeht, alep, nirlep, anlag, belāg, nirmal buddh, sañt subhā, rośandimāġ, sāf dil, pāp mukt,nirdoś,nirdokh, mael raeht, khot raeht, bedoś, nirdosā,bedosā,dośmukt, surkharū, nuks raeht, nirpakkh, parhezgār, pārdarśī; pākīzā, pāk dil, pāk pavitt, pāk pavittar,  pāk dāman",
+            'adjEnglish': "pavittar, pavittr, pavitt, pavīt, punīt, pāvan, xālas, pāk; succā, kharā, śuddh, sāf, suthrā, sāf śafāf; nirmal, svacch, kulīn; sucajjā, adūśit,  ujjal, ujlā,   balaurī, siānaā, sughara, nafīs; patit pāvan, niśkalañk,nihkalañk, bedāġ, dāġhīna, dāġraeht, alep, nirlep, anlag, belāg, nirmal buddh, sañt subhā, rośandimāġ, sāf dil, pāp mukt,nirdoś,nirdokh, mael raeht, khoṭ raeht, bedoś, nirdosā,bedosā,dośmukt, surkharū, nuks raeht, nirpakkh, parhezgār, pārdarśī; pākīzā, pāk dil, pāk pavitt, pāk pavittar,  pāk dāman",
             'intEnglish': ""
         }, {
             'name': "ngftZsosk",
@@ -671,10 +671,10 @@ var dataAbhautik = {
             'adv': "ngftZsosk ;fjs, y'N/ fdb Bkb,y'N/ wB Bkb, y'Nh Bh:s Bkb,  wB ’u w?+ oy e/",
             'adj': "ngftZso, nP[ZX, e;[ZX, dkrh, gkgh, w?+k, fbpfVnk, rzXbk, y'Nk, fcZek, Bkgke, gbhd, gbhs, fGqPN, fGZfNnk, d'Ph, d';k, Bk\kb;, fteokb, ngkodoPh",
             'int': "",
-            'nounEnglish': "apavittartā, pāp, khoṭ , bhiṭṭ, bhriśṭtā, maelaā dil, khoṭāpan, aśuddhtā, kasuddhtā;nāpākī, nāpākīzgī; pakkhpāt, bhriśṭācār, vikrāltā, lag labera, kalittan; manmatt, apārdarśtā, jarah buddhī, moṭī akal; bhrisṭācārī, pāpī",
+            'nounEnglish': "apavittartā, pāp, khoṭ , bhiṭṭ, bhriśṭtā, maelaā dil, khoṭāpan, aśuddhtā, kasuddhtā;nāpākī, nāpākīzgī; pakkhpāt, bhriśṭācār, vikrāltā, lag labera, kalittaṇ; manmatt, apārdarśtā, jarah buddhī, moṭī akal; bhrisṭācārī, pāpī",
             'verbEnglish': "apavittar karnā, bhiṭnaā, bhriśṭ karnā, palīt karnā, kalank lāunaā, kalankit karnā, dāg lāunaā, pavittartā bhang karnī",
-            'advEnglish': "apavittartā saehat, khote dil nāl, khote man nāl, khotī nīyat nāl, man ’c maela rakkh ke",
-            'adjEnglish': "apavittar, aśuddh, kasuddh, dāgī, pāpī, maelā, libaraiā, gandhlā, khotā,phikkā, nāpāk, palīd, palīt, bhriśta, bhitataiā, dośī, dosā, nākahālas, vikrāl, apārdarśi",
+            'advEnglish': "apavittartā saehat, khoṭe dil nāl, khoṭe man nāl, khoṭī nīyat nāl, man ’c maela rakkh ke",
+            'adjEnglish': "apavittar, aśuddh, kasuddh, dāgī, pāpī, maelā, libaraiā, gandhlā, khoṭā,phikkā, nāpāk, palīd, palīt, bhriśta, bhitataiā, dośī, dosā, nākahālas, vikrāl, apārdarśi",
             'intEnglish': ""
         }]
     }, {
@@ -821,7 +821,7 @@ var dataAbhautik = {
             'adv': "",
             'adj': "nfXnkswe, nG" + '"' + "fse, nw{os, fBo;ohoe, nksfwe  Grsl r[ow[yl sgZ;thl ;ziwh, goj/Irko w[es, \[Pfe;ws, p\skto, GkrPkbh",
             'int': "",
-            'nounEnglish': "adhiātmaktā, adhiātam vidiā, abhautiktā, dhārmiktā, āstiktā, adhiātamvād,  iśvarvād, ilāhiat; dhur kī bānaī, nām, ilāhī paegam; nām khumārī, kahudāprastī",
+            'nounEnglish': "adhiātmaktā, adhiātam vidiā, abhautiktā, dhārmiktā, āstiktā, adhiātamvād,  iśvarvād, ilāhiat; dhur kī bānaī, nām, ilāhī paegam; nām ḳhumārī, kahudāprastī",
             'verbEnglish': "nām japnaā, bhagtī karnā, liv lāunaā, liv lagnaī, tap karnā; parhez karnā, sanjam vartnaā, muktī pāunaā ",
             'advEnglish': "",
             'adjEnglish': "adhiātmak, abhautik, amūrat, nirsarirak, ātmik  bhagat,gurmukh, tapassavī; sanjmī, parhezgār mukt,kahuśkismat, bakahtāvar, bhāgśālī",
@@ -834,7 +834,7 @@ var dataAbhautik = {
             'adv': "oZp ;pZphl oZp b/y/l Bkw d/ j[bko/ Bkbl oZp stZeb",
             'adj': "oZph, \[dkJh, fJbkjh, JhPtoh, noPh",
             'int': "oZp okyk ` \[dk jkf|I ` nZbk p/bh ` okw Gbh eo/ ` jkJ/ oZpk `",
-            'nounEnglish': "rabb, parmātmā, param ātmā, parmeśar, param īśvar, parmesar, prabh, prabhū, bhagvān, rām, om, onkār, akāl, akāl purkh, kartā,  kartār  satnām, vāhegurū, svaebhan, saccā pātśāh,  īś, īs, īśar, īsar, īśvar,   ikk onkar, khudā, khudāvand, khudāvand karīm, rabbul ālmīn, allā  sirjanahār, pālanahār, kahālik, vidhātā, mālak, pālak, jagdīś, jagdīs, jagat īś, har, harī, dātā, dātār   pārbrahm, apranpār, karan karāvanhār; antaryāmī, antarjāmī",
+            'nounEnglish': "rabb, parmātmā, param ātmā, parmeśar, param īśvar, parmesar, prabh, prabhū, bhagvān, rām, om, onkār, akāl, akāl purkh, kartā,  kartār  satnām, vāhegurū, svaebhan, saccā pātśāh,  īś, īs, īśar, īsar, īśvar,   ikk onkar, ḳhudā, ḳhudāvand, ḳhudāvand karīm, rabbul ālmīn, allā  sirjanahār, pālanahār, kahālik, vidhātā, mālak, pālak, jagdīś, jagdīs, jagat īś, har, harī, dātā, dātār   pārbrahm, apranpār, karan karāvanhār; antaryāmī, antarjāmī",
             'verbEnglish': "rabb rabb karnā, ram ram karnā, vāhigurū vāhigurū karnā, allā allā karnā, rabb dā nān laenaā, nām japnaā",
             'advEnglish': "rabb sababbī; rabb lekhe; nām de hulāre nāl; rabb tavakkal  int. : rabb rākhā ! kahudā hāfiz ! allā belī ! rām bhalī kare ! hāe rabbā !",
             'adjEnglish': "rabbī, kahudāī, ilāhī, īśvarī, arśī",
@@ -848,7 +848,7 @@ var dataAbhautik = {
             'adj': "Xowh, wIQph, dhBdko, ;ziwh, nk;fse, ;fsi[rh  ;fs;zrh  nXowh, p/dhB, wBw[y, w[Beo, ekf|o, Xow ftj{Dk, Bk;fse  r[Bkjrko, ebi[rh",
             'int': "",
             'nounEnglish': "dharam, mazhab, dīn, dharam karam; āstiktā, ḳhudā prastī, ātam giān, brahm giān; brahm giānī; ātmā, jivātmā,  rūh; antar ātmā; antar sūjh, antar bodh, antar prernā  dhiān, antar dhiān  antarjāmī, antaryāmī  gurū, gurūtav  bhagtī, jap, tap, tapassiā, upāsnā, liv; yog, sanjam, sādhnā, raehat maryādā, parhezgārī  satsangat, satsang, dharmātmā, bhagat, śardhālū, aninn bhagat, upāsak, pārsā, sādh, sant, tapī, tapassavī  bheta, bhetaā, arpana, samarpana, śardhā;punn pārsāī, dīndārī  bhāg, kismat  muktī, mokś, nirvāna  manmukhtā, gunāhgārī, pāp    bhavsāgar",
-            'verbEnglish': "pūjnaā, pūjā karnā, bhagtī karnā; kīrtan karnā, ardās karnī, namāz parahnaī, ilhām honaā, ilhām bhejnaā,  bhet carahāunaā, bhetā karnā, arpan karnā, dhiān lāunaā, liv lāunaā",
+            'verbEnglish': "pūjnaā, pūjā karnā, bhagtī karnā; kīrtan karnā, ardās karnī, namāz parahnaī, ilhām honaā, ilhām bhejnaā,  bheṭ carahāunaā, bheṭā karnā, arpan karnā, dhiān lāunaā, liv lāunaā",
             'advEnglish': "śardhā nāl, śardhā saehat, bhagtī bhāv nāl; daevī rūp vic, gaebī rūp vic, īśvarī rūp vic; dhārmik bhāvnā nāl, dharam nāl, dharam karam saeht",
             'adjEnglish': "dharmī, mazhabī, dīndār, sanjamī, astik, satjugī  satsangī  adharmī, bedīn, manmukh, munkar, kāfir, dharam vihūnaā, nāstik  gunāhgar, kaljugī",
             'intEnglish': ""
@@ -860,7 +860,7 @@ var dataAbhautik = {
             'adv': "",
             'adj': "",
             'int': "",
-            'nounEnglish': "hindū: sanātan dharam; ārīā samāj  sikkh: khālsā, nirmal panth; udāsī, nirankārī; nāmdhārī; rādhā suāmī  islām: sunnī, śīā īsāī: kaetholik, protaestant",
+            'nounEnglish': "hindū: sanātan dharam; ārīā samāj  sikkh: khālsā, nirmal panth; udāsī, nirankārī; nāmdhārī; rādhā suāmī  islām: sunnī, śīā īsāī: kaetholik, proṭaesṭanṭ",
             'verbEnglish': "",
             'advEnglish': "",
             'adjEnglish': "",
@@ -951,10 +951,10 @@ var dataAbhautik = {
             'adv': "",
             'adj': "gdkoEtkdh, G" + '"' + "fsetkdh;owkJ/dkokBk,  p[oI[nkl gq'bskohl b'N{l b[NhAd/l ;wkitkdhl ;kwtkdhiwkshL yZp/ gZyhl ;Zi/ gZyh",
             'int': "",
-            'nounEnglish': "padārthvād, bhautiktā, nāstiktā, mādā prastī; vigiānak padārthvād  padārth, mādā, pūnjī, sarmāiā  pūnjīpatī, sarmāedār, burjuāzī  proltārīe, sarbāhārā, kirtī, kāmā, mazdūr, jamāt, mazdūr jamāt  lutt khoh; kirt; kadar; viyogīkarana; begāngī  kirt śaktī, vādhū kadar, lābh  kamiūnista pārtaī, sāmvādī pārtaī śrenaī sangharś; muzāhrā, haratāl;muzāhrākārī, inkalāb, krāntī  samājvādī inkalāb, samājvādī karāntī, soślist inkalāb, soślist krāntī;  samājvād, soślizm; kamiūnizm, sāmvād; sāmvādī mānavvād  sāmvādī inkalāb, sāmvādī karāntī; jamāthīna samāj  kārl mārks; aengalz, laenin; māo ze tung",
-            'verbEnglish': "sangharś karnaā, sangharś vidadahnaā; lutt khoh karnī, lutt khoh honaī; inkalāb liāunaā; ikk honaā,  ikk ho jānaā, ekā usārnā",
+            'nounEnglish': "padārthvād, bhautiktā, nāstiktā, mādā prastī; vigiānak padārthvād  padārth, mādā, pūnjī, sarmāiā  pūnjīpatī, sarmāedār, burjuāzī  proltārīe, sarbāhārā, kirtī, kāmā, mazdūr, jamāt, mazdūr jamāt  luṭṭ khoh; kirt; kadar; viyogīkarana; begāngī  kirt śaktī, vādhū kadar, lābh  kamiūnista pārtaī, sāmvādī pārtaī śrenaī sangharś; muzāhrā, haratāl;muzāhrākārī, inkalāb, krāntī  samājvādī inkalāb, samājvādī karāntī, soślisṭ inkalāb, soślisṭ krāntī;  samājvād, soślizm; kamiūnizm, sāmvād; sāmvādī mānavvād  sāmvādī inkalāb, sāmvādī karāntī; jamāthīna samāj  kārl mārks; aengalz, laenin; māo ze tung",
+            'verbEnglish': "sangharś karnaā, sangharś vidadahnaā; luṭṭ khoh karnī, luṭṭ khoh honaī; inkalāb liāunaā; ikk honaā,  ikk ho jānaā, ekā usārnā",
             'advEnglish': "",
-            'adjEnglish': "padārthvādī, bhautikvādī  sarmāedārānā, burzūā; proltārī;lotaū; lutīnde; samājvādī, sāmvādī  jamātī: khabbe pakkhī; sajje pakkhī",
+            'adjEnglish': "padārthvādī, bhautikvādī  sarmāedārānā, burzūā; proltārī;lotaū; luṭīnde; samājvādī, sāmvādī  jamātī: khabbe pakkhī; sajje pakkhī",
             'intEnglish': ""
         }]
     }, {
@@ -981,7 +981,7 @@ var dataAbhautik = {
             'adv': "ikd{ Bkb, N{D/ Bkb, MkV/ Bkb, MkV c{e d[nkok, ek+/ fJbw Bkb, ikd{wJh Yzr Bkb, eokwks d[nkok, e" + '"' + "se eofdnK, e" + '"' + "se oufdnK, uwsekoh Yzr Bkb, wzso w[rX j' e/",
             'adj': "ikd{Jh, ikd{wJh, sfb;wh, e" + '"' + "seh, uwsekoh, eokwksh",
             'int': "",
-            'nounEnglish': "jādū, tūnaā, jādū tūnaā, ṭūnaā ṭāmana, talism, kālaā ilm, kālaā jādū, gupt giān, indarjāla  jhāraā, jhāra phūk, tantar vidiā, sihar, jādūgarī, pret vidiā, jantar mantar, mantar, jantar, tantar, kautak, karāmāt, camatkār; riddhī siddhī  jādūgar, siānaā",
+            'nounEnglish': "jādū, ṭūnaā, jādū tūnaā, ṭūnaā ṭāmana, talism, kālaā ilm, kālaā jādū, gupt giān, indarjāla  jhāraā, jhāra phūk, tantar vidiā, sihar, jādūgarī, pret vidiā, jantar mantar, mantar, jantar, tantar, kautak, karāmāt, camatkār; riddhī siddhī  jādūgar, siānaā",
             'verbEnglish': "jādū karnā, jādū dhūranā, ṭūnaā karnā, jhāraā karnā, phūk mārnī, jādū ṭūnaā karnā; karāmāt karnī, karāmāt vikhāunaī, kautak racnaā, camatkār vikhāunaā ",
             'advEnglish': "jādū nāl, tūnae nāl, jhārae nāl, jhāra phūk duārā, kālae ilm nāl, jādūmaī dahang nāl, karāmāt duārā, kautak kardiān, kautak racdiān, camatkārī dahang nāl, mantar mugadh ho ke",
             'adjEnglish': "jādūī, jādūmaī, talismī, kautkī, camatkārī, karāmātī",
