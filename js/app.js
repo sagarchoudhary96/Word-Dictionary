@@ -7,3 +7,12 @@ $(document).ready(function(){
     $('.modal-trigger').leanModal();
 
   });
+
+$(".linker").on('click', function() {
+   
+    var c = $(this).attr("class");
+    c= c.split(' ')[0];
+    c =  '#' + c;
+    $(c).find("a").toggleClass("active");
+    
+});
