@@ -146,3 +146,13 @@ hr{
   font-size: 20px;
   text-align: left;
 }
+.symbol {
+  cursor: pointer;
+}
+summary {
+  outline: none;
+}
+ details summary::-webkit-details-marker { display:none; }
+ .text-size {
+   font-size: 20px;
+ }
