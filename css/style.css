@@ -33,7 +33,7 @@
 }
 
 .margins {
-  margin: 2%;
+  margin: 1.5%;
 }
 
 .align-center {
@@ -86,7 +86,7 @@ hr{
   border-color: #ff3d00;
 }
 #homePage{
-  padding-top: 7%;
+  padding-top: 3%;
   height: 100vh;
 }
 
