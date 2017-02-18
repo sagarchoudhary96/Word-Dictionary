@@ -1,5 +1,5 @@
 .introText {
-  font-size: 20px;
+  font-size: 16px;
 }
 /*.Page {
   height: 100vh;
@@ -53,7 +53,7 @@ ol{
   color: #ff3d00;
 }
 
-h1,h2,h3,h4,h5,h6 {
+h1,h2,h3,h4,h5,h6,p {
   color: #ff3d00;
 }
 ol li{
@@ -111,7 +111,7 @@ hr{
     height: 30vh;
 }
 .index_size {
-  font-size: 20px;
+  font-size: 16px;
   text-align: left;
 }
 .symbol {
@@ -131,3 +131,9 @@ a.morelink {
 .morecontent span {
  	display: none;
  }
+ .size-of-text{
+   font-size:26px;
+ }
+.size-of-heading {
+  font-size: 30px;
+}
