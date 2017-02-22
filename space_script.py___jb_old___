@@ -1,0 +1,13 @@
+str = """uweDk, fbPeDkl
+uwekT[Dk, fbPekT[Dk, irwr j'Dk, irwrkT[Dk, MbeDk, vbQeDk,
+MwMw eoBk, fbP fbP eoBk, fNwfNw eoBk, fNwfNwkT[Dk,
+fMbfwb eoBk, ir p[M j'Dk
+Ioe poe j'Dk,
+bfjeDk
+"""
+a = str.splitlines()
+result =""
+for words in a:
+    result +=words + " "
+
+print result
