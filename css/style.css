@@ -49,7 +49,7 @@ body {
 }
 
 ol{
-   list-style-position: inside;
+   list-style-position: outside;
   color: #ff3d00;
 }
 
