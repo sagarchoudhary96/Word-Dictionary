@@ -39,6 +39,12 @@
 .align-center {
   text-align: center;
 }
+.align-right {
+  text-align: right;
+}
+.align-left {
+  text-align: left;
+}
 
 body {
   background-image : linear-gradient(to bottom right , #ffd54f, #ff9800);
