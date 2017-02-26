@@ -722,7 +722,7 @@ function appendText(){
   for (headings in dataBhautik.words) {
       $("#bhautik_heading_punjabi").append(
         '<li>'+
-            '<div class="collapsible-header center">'+'<span class="punjabi"><h4>' +dataBhautik.words[headings].heading+'</h4></span>' +'</div>' +
+            '<div class="collapsible-header center">'+'<span class="punjabi"><h5>' +dataBhautik.words[headings].heading+'</h5></span>' +'</div>' +
             '<div class="collapsible-body">'+
                 '<ul id="bhautik_heading_punjabi'+ j +'"> </ul>' +
             '</div>' +
@@ -731,7 +731,7 @@ function appendText(){
 
       $("#bhautik_heading_english").append(
         '<li>'+
-            '<div class="collapsible-header center">'+'<span><h4>' +dataBhautik.words[headings].headingEnglish+'</h4></span>' +'</div>' +
+            '<div class="collapsible-header center">'+'<span><h5>' +dataBhautik.words[headings].headingEnglish+'</h5></span>' +'</div>' +
             '<div class="collapsible-body">'+
                 '<ul id="bhautik_heading_english'+ j +'"> </ul>' +
             '</div>' +
@@ -739,10 +739,10 @@ function appendText(){
       );
 
       if(dataBhautik.words[headings].heading == "b'n d/ ;'w/" ){
-          $('#bhautik_heading_punjabi'+j).append("<h4 class='center punjabi border-bottom'>e[dosh ;'w/</h4>");
-          $('#bhautik_heading_english'+j).append("<h4 class='center'>Kudrati Some</h4>");
+          $('#bhautik_heading_punjabi'+j).append("<h6 class='center punjabi border-bottom'>e[dosh ;'w/</h6>");
+          $('#bhautik_heading_english'+j).append("<h6 class='center'>Kudrati Some</h6>");
           for(word in dataBhautik.words[headings].kudrati){
-            $('#bhautik_heading_punjabi'+j).append('<li class="center punjabi" id="words"><a class="modal-trigger" href="#modal'+i+'"><h5>'+dataBhautik.words[headings].kudrati[word].name+'</h5></a></li>');
+            $('#bhautik_heading_punjabi'+j).append('<li class="center punjabi" id="words"><a class="modal-trigger" href="#modal'+i+'"><span class="subheading_size">'+dataBhautik.words[headings].kudrati[word].name+'</span></a></li>');
             $("body").append('<div id="modal'+ i +'" class="modal">' +
               '<div class="modal-content">' +
                   '<a href="#!" class=" modal-action modal-close right"><i class="material-icons">close</i></a>'+
@@ -760,7 +760,7 @@ function appendText(){
               '  </div>'+
             '  </div>');
 
-            $('#bhautik_heading_english'+j).append('<li class="center" id="words"><a class="modal-trigger" href="#modal_english'+i+'"><h5>'+dataBhautik.words[headings].kudrati[word].nameEnglish+'</h5></a></li>');
+            $('#bhautik_heading_english'+j).append('<li class="center" id="words"><a class="modal-trigger" href="#modal_english'+i+'"><span class="subheading_size">'+dataBhautik.words[headings].kudrati[word].nameEnglish+'</span></a></li>');
             $("body").append('<div id="modal_english'+ i +'" class="modal">' +
               '<div class="modal-content">' +
                   '<a href="#!" class=" modal-action modal-close right"><i class="material-icons">close</i></a>'+
@@ -780,10 +780,10 @@ function appendText(){
 
             i++;
           }
-          $('#bhautik_heading_punjabi'+j).append("<h4 class='center punjabi'>pBktNh ;'w/</h4>");
-          $('#bhautik_heading_english'+j).append("<h4 class='center'>banavati Some</h4>");
+          $('#bhautik_heading_punjabi'+j).append("<h6 class='center punjabi'>pBktNh ;'w/</h6>");
+          $('#bhautik_heading_english'+j).append("<h6 class='center'>banavati Some</h6>");
           for(word in dataBhautik.words[headings].banavati){
-            $('#bhautik_heading_punjabi'+j).append('<li class="center punjabi" id="words"><a class="modal-trigger" href="#modal'+i+'"><h5>'+dataBhautik.words[headings].banavati[word].name+'</h5></a></li>');
+            $('#bhautik_heading_punjabi'+j).append('<li class="center punjabi" id="words"><a class="modal-trigger" href="#modal'+i+'"><span class="subheading_size">'+dataBhautik.words[headings].banavati[word].name+'</span></a></li>');
             $("body").append('<div id="modal'+ i +'" class="modal">' +
               '<div class="modal-content">' +
                   '<a href="#!" class=" modal-action modal-close right"><i class="material-icons">close</i></a>'+
@@ -801,7 +801,7 @@ function appendText(){
               '  </div>'+
             '  </div>');
 
-            $('#bhautik_heading_english'+j).append('<li class="center" id="words"><a class="modal-trigger" href="#modal_english'+i+'"><h5>'+dataBhautik.words[headings].banavati[word].nameEnglish+'</h5></a></li>');
+            $('#bhautik_heading_english'+j).append('<li class="center" id="words"><a class="modal-trigger" href="#modal_english'+i+'"><span class="subheading_size">'+dataBhautik.words[headings].banavati[word].nameEnglish+'</span></a></li>');
             $("body").append('<div id="modal_english'+ i +'" class="modal">' +
               '<div class="modal-content">' +
                   '<a href="#!" class=" modal-action modal-close right"><i class="material-icons">close</i></a>'+
@@ -825,7 +825,7 @@ function appendText(){
       }
       else{
         for(word in dataBhautik.words[headings].subWords){
-          $('#bhautik_heading_punjabi'+j).append('<li class="center punjabi" id="words"><a class="modal-trigger" href="#modal'+i+'"><h5>'+dataBhautik.words[headings].subWords[word].name+'</h5></a></li>');
+          $('#bhautik_heading_punjabi'+j).append('<li class="center punjabi" id="words"><a class="modal-trigger" href="#modal'+i+'"><span class="subheading_size">'+dataBhautik.words[headings].subWords[word].name+'</span></a></li>');
           $("body").append('<div id="modal'+ i +'" class="modal">' +
             '<div class="modal-content">' +
                 '<a href="#!" class=" modal-action modal-close right"><i class="material-icons">close</i></a>'+
@@ -844,7 +844,7 @@ function appendText(){
             '  </div>'+
           '  </div>');
 
-          $('#bhautik_heading_english'+j).append('<li class="center" id="words"><a class="modal-trigger" href="#modal_english'+i+'"><h5>'+dataBhautik.words[headings].subWords[word].nameEnglish+'</h5></a></li>');
+          $('#bhautik_heading_english'+j).append('<li class="center" id="words"><a class="modal-trigger" href="#modal_english'+i+'"><span class="subheading_size">'+dataBhautik.words[headings].subWords[word].nameEnglish+'</span></a></li>');
           $("body").append('<div id="modal_english'+ i +'" class="modal">' +
             '<div class="modal-content">' +
                 '<a href="#!" class=" modal-action modal-close right"><i class="material-icons">close</i></a>'+
@@ -874,7 +874,7 @@ function appendText(){
     for (headings in dataAbhautik.words) {
         $("#abhautik_heading_punjabi").append(
           '<li>'+
-              '<div class="collapsible-header center">'+'<span class="punjabi"><h4>' +dataAbhautik.words[headings].heading+'</h4></span>' +'</div>' +
+              '<div class="collapsible-header center">'+'<span class="punjabi"><h5>' +dataAbhautik.words[headings].heading+'</h5></span>' +'</div>' +
               '<div class="collapsible-body">'+
                   '<ul id="abhautik_heading_punjabi'+ k +'"> </ul>' +
               '</div>' +
@@ -883,7 +883,7 @@ function appendText(){
 
         $("#abhautik_heading_english").append(
           '<li>'+
-              '<div class="collapsible-header center">'+'<span><h4>' +dataAbhautik.words[headings].headingEnglish+'</h4></span>' +'</div>' +
+              '<div class="collapsible-header center">'+'<span><h5>' +dataAbhautik.words[headings].headingEnglish+'</h5></span>' +'</div>' +
               '<div class="collapsible-body">'+
                   '<ul id="abhautik_heading_english'+ k +'"> </ul>' +
               '</div>' +
@@ -891,7 +891,7 @@ function appendText(){
         );
 
         for(word in dataAbhautik.words[headings].subWords){
-          $('#abhautik_heading_punjabi'+k).append('<li class="center punjabi" id="words"><a class="modal-trigger" href="#modal'+i+'"><h5>'+dataAbhautik.words[headings].subWords[word].name+'</h5></a></li>');
+          $('#abhautik_heading_punjabi'+k).append('<li class="center punjabi" id="words"><a class="modal-trigger" href="#modal'+i+'"><span class="subheading_size">'+dataAbhautik.words[headings].subWords[word].name+'</span></a></li>');
           $("body").append('<div id="modal'+ i +'" class="modal">' +
             '<div class="modal-content">' +
                 '<a href="#!" class=" modal-action modal-close right"><i class="material-icons">close</i></a>'+
@@ -910,7 +910,7 @@ function appendText(){
             '  </div>'+
           '  </div>');
 
-          $('#abhautik_heading_english'+k).append('<li class="center" id="words"><a class="modal-trigger" href="#modal_english'+i+'"><h5>'+dataAbhautik.words[headings].subWords[word].nameEnglish+'</h5></a></li>');
+          $('#abhautik_heading_english'+k).append('<li class="center" id="words"><a class="modal-trigger" href="#modal_english'+i+'"><span class="subheading_size">'+dataAbhautik.words[headings].subWords[word].nameEnglish+'</span></a></li>');
           $("body").append('<div id="modal_english'+ i +'" class="modal">' +
             '<div class="modal-content">' +
                 '<a href="#!" class=" modal-action modal-close right"><i class="material-icons">close</i></a>'+

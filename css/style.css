@@ -17,7 +17,7 @@
 }
 
 #words{
-  padding: 8px;
+  padding: 1px;
 }
 
 #heading2_punjabi,#heading2_english {
@@ -142,4 +142,12 @@ a.morelink {
  }
 .size-of-heading {
   font-size: 30px;
+}
+.row {
+  margin-bottom: 0.5%;
+}
+.subheading_size {
+  font-size: 16px;
+  color: #ff3d00;
+  font-weight: 400;
 }
