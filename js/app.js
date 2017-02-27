@@ -18,7 +18,7 @@ $(".linker").on('click', function() {
 });
 
 $(document).ready(function() {
-	var showChar = 450;
+	var showChar = 1200;
 	var ellipsestext = "...";
 	var moretext = "read more";
 	var lesstext = "read less";

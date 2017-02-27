@@ -142,6 +142,7 @@ a.morelink {
  }
 .size-of-heading {
   font-size: 30px;
+  font-weight: bold;
 }
 .row {
   margin-bottom: 0.5%;
@@ -150,4 +151,7 @@ a.morelink {
   font-size: 16px;
   color: #ff3d00;
   font-weight: 400;
+}
+.brand-logo {
+  margin-left: 15px;
 }
