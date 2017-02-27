@@ -142,6 +142,7 @@ a.morelink {
  }
 .size-of-heading {
   font-size: 30px;
+  font-weight: bold;
 }
 .row {
   margin-bottom: 0.5%;
